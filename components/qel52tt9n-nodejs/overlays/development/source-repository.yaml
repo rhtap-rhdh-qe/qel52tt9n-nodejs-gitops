@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: qel52tt9n-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/qel52tt9n-nodejs
